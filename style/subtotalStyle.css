@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  table {
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 80%;
+    border-collapse: collapse;
+  }
+  th,
+  td {
+    padding: 10px;
+    border: 2px solid #ccc;
+    text-align: center;
+  }
+  .remove-button {
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  .quantity {
+    width: 60px;
+    text-align: center;
+  }
